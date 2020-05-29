@@ -1,0 +1,11 @@
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\bin\Debug\netcoreapp3.1\ControlFlowPractice.exe
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\bin\Debug\netcoreapp3.1\ControlFlowPractice.deps.json
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\bin\Debug\netcoreapp3.1\ControlFlowPractice.runtimeconfig.json
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\bin\Debug\netcoreapp3.1\ControlFlowPractice.runtimeconfig.dev.json
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\bin\Debug\netcoreapp3.1\ControlFlowPractice.dll
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\bin\Debug\netcoreapp3.1\ControlFlowPractice.pdb
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\obj\Debug\netcoreapp3.1\ControlFlowPractice.csprojAssemblyReference.cache
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\obj\Debug\netcoreapp3.1\ControlFlowPractice.AssemblyInfoInputs.cache
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\obj\Debug\netcoreapp3.1\ControlFlowPractice.AssemblyInfo.cs
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\obj\Debug\netcoreapp3.1\ControlFlowPractice.dll
+C:\Users\melis\source\repos\ControlFlowPractice\ControlFlowPractice\obj\Debug\netcoreapp3.1\ControlFlowPractice.pdb

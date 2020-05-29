@@ -1,0 +1,11 @@
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\bin\Debug\netcoreapp3.1\LoopPractice.exe
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\bin\Debug\netcoreapp3.1\LoopPractice.deps.json
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\bin\Debug\netcoreapp3.1\LoopPractice.runtimeconfig.json
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\bin\Debug\netcoreapp3.1\LoopPractice.runtimeconfig.dev.json
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\bin\Debug\netcoreapp3.1\LoopPractice.dll
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\bin\Debug\netcoreapp3.1\LoopPractice.pdb
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\obj\Debug\netcoreapp3.1\LoopPractice.csprojAssemblyReference.cache
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\obj\Debug\netcoreapp3.1\LoopPractice.AssemblyInfoInputs.cache
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\obj\Debug\netcoreapp3.1\LoopPractice.AssemblyInfo.cs
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\obj\Debug\netcoreapp3.1\LoopPractice.dll
+C:\Users\melis\source\repos\ControlFlowPractice\LoopPractice\obj\Debug\netcoreapp3.1\LoopPractice.pdb
