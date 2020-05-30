@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlFlowPractice", "Cont
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopPractice", "LoopPractice\LoopPractice.csproj", "{294192CB-8AFE-4FA7-B4EA-830275E2C275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndLists", "ArraysAndLists\ArraysAndLists.csproj", "{C07ECDAC-8278-48D0-9DEE-D2EC7B87EFA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysAndLists", "ArraysAndLists\ArraysAndLists.csproj", "{C07ECDAC-8278-48D0-9DEE-D2EC7B87EFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder", "StringBuilder\StringBuilder.csproj", "{EEEAC817-9483-4D01-BB93-6A6A608C06F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C07ECDAC-8278-48D0-9DEE-D2EC7B87EFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C07ECDAC-8278-48D0-9DEE-D2EC7B87EFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C07ECDAC-8278-48D0-9DEE-D2EC7B87EFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEAC817-9483-4D01-BB93-6A6A608C06F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEAC817-9483-4D01-BB93-6A6A608C06F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEAC817-9483-4D01-BB93-6A6A608C06F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEAC817-9483-4D01-BB93-6A6A608C06F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
